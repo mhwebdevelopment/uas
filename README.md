@@ -106,7 +106,7 @@ Where $C_{\text{normalized}}$ represents normalized graph degree centrality, and
 
 ---
 
-## 3. Cryptographic Original Text Hash Locking (C Implementation)
+## 3. Plan for Cryptographic Original Text Hash Locking (C Implementation)
 
 ### 3.1 Problem Statement
 When autonomous LLMs or agents perform structural extraction, they frequently introduce subtle mutations: whitespace compression, quote normalization (`"` to `”`), missing trailing punctuation, character substitutions, and paraphrasing drift. 
